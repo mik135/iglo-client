@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+    <defs>
+        <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%" gradientTransform="rotate(270)">
+            <stop offset="0%" stop-color="hsl(162, 100%, 58%)" />
+            <stop offset="100%" stop-color="hsl(270, 73%, 53%)" />
+        </linearGradient>
+    </defs>
+    <path fill="none" stroke="url(#a)" stroke-linecap="round" stroke-width="3.5"
+        d="M10 10c18.75 2.917 50.417 20.875 90 14s58.333-47.833 100-47c41.667.833 58.333 51.625 100 51s58.333-55.667 100-54c41.667 1.667 58.333 57.208 100 62 41.667 4.792 58.333-40.458 100-39 41.667 1.458 58.333 45.167 100 46 41.667.833 79.167-33.25 100-42"
+        transform="translate(-5 208.511)" />
+</svg>
